@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "circlesyncafaea557": {}
+      },
+      "api": {
+        "circlesync": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
